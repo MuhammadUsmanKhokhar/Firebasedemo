@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "311834364125",
+    "firebase_url": "https://fir-demoapp-3e9c2.firebaseio.com",
+    "project_id": "fir-demoapp-3e9c2",
+    "storage_bucket": "fir-demoapp-3e9c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311834364125:android:e789ad83ba0aa2798eb334",
+        "android_client_info": {
+          "package_name": "app.techsol.firebasedemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311834364125-9k4piujbb8tklsu57379pu5dabsut8cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.techsol.firebasedemoapp",
+            "certificate_hash": "ba0a906fca36ff8bdeaad21e237f406b9af38c1b"
+          }
+        },
+        {
+          "client_id": "311834364125-amfncpol1ia142looaveqq2n24qo5sc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_DiJACewCZ40tL_IpPLNp8TV2bepunVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311834364125-amfncpol1ia142looaveqq2n24qo5sc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
