@@ -10,6 +10,16 @@
         android:id="@+id/PasswordET"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+    <EditText
+        android:inputType="number"
+        android:id="@+id/PhoneET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/AddressET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
     <Button
         android:id="@+id/mSignupBtn"
         android:text="Signup"
